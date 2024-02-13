@@ -1,0 +1,27 @@
+*{
+    border: 0px;
+    text-align: center;
+}
+.main{
+    margin-top: 5%;
+    margin-left: 30%;
+    width: 500px;
+    background-color: rgba(0, 0, 0, 0.486);
+    text-align: center;
+    border-radius: 10px;
+}
+input{
+    margin-top: 30px;
+    width: 450px;
+    height: 35px;
+    margin-bottom: 10px;
+}
+.int{
+    background-color: green;
+}
+.register{
+    background-color: rgb(64, 64, 196);
+    height: 40px;
+    margin-bottom: 5px;
+    align-items: center;
+}
